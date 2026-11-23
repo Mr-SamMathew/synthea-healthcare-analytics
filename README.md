@@ -17,3 +17,4 @@ Quick Start
 Built With
 1) BI Tool: Power BI
 2) Data Source: provided in the data folder
+3) Data Sourced from https://synthea.mitre.org/downloads
